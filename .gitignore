@@ -3,4 +3,4 @@
 *.csv
 *.ipynb_checkpoints
 *.zip
-#.OTTER_LOG
+*.OTTER_LOG
